@@ -15,7 +15,7 @@ This repository is the submission for quantitative analyst intern-assignment at 
 3. Install all the required third party libraries
 
    ```sh
-   pip3 install -r requirements.txt
+   pip3 install -r Requirements.txt
    ```
 
 4. Enter the following command
